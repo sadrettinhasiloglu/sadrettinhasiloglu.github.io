@@ -15,5 +15,6 @@ declare module 'vue' {
     InfoCards: typeof import('./src/components/InfoCards.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    UserMessages: typeof import('./src/components/UserMessages.vue')['default']
   }
 }

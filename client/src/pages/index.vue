@@ -3,6 +3,7 @@
     <AppHeader />
     <v-card class="mx-auto" flat max-width="1200">
       <InfoCards />
+      <UserMessages />
       <FundingCard v-if="false" />
     </v-card>
   </v-container>
