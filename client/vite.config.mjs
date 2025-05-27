@@ -14,7 +14,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/sadrettinhasiloglu.github.io/',
+  base: '/',
   plugins: [
     VueRouter(),
     Layouts(),
